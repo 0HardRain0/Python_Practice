@@ -1,0 +1,8 @@
+고양이: cat
+사과: apple
+교회: church
+신전: temple
+지갑: wallet
+가방: backpack
+비누: soap
+자전거: bycicle
